@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PyramidMatching", "PyramidMatching\PyramidMatching.vcxproj", "{53A893CD-E525-4585-B7CE-3B464DD21906}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImagePyramid", "ImagePyramid\ImagePyramid.vcxproj", "{965389EA-049A-4879-8E29-90A3D3FBC7FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53A893CD-E525-4585-B7CE-3B464DD21906}.Debug|Win32.ActiveCfg = Debug|Win32
+		{53A893CD-E525-4585-B7CE-3B464DD21906}.Debug|Win32.Build.0 = Debug|Win32
+		{53A893CD-E525-4585-B7CE-3B464DD21906}.Release|Win32.ActiveCfg = Release|Win32
+		{53A893CD-E525-4585-B7CE-3B464DD21906}.Release|Win32.Build.0 = Release|Win32
+		{965389EA-049A-4879-8E29-90A3D3FBC7FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{965389EA-049A-4879-8E29-90A3D3FBC7FB}.Debug|Win32.Build.0 = Debug|Win32
+		{965389EA-049A-4879-8E29-90A3D3FBC7FB}.Release|Win32.ActiveCfg = Release|Win32
+		{965389EA-049A-4879-8E29-90A3D3FBC7FB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
